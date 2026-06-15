@@ -38,17 +38,6 @@ in Ireland from 2010 to 2026 using Python, Pandas, and Matplotlib.
 7. New Build vs Second-Hand price comparison over time
 8. Summary of key market findings
 
-## Charts
-
-### National Price Trend
-![National Price Trend](national_price_trend.png)
-
-### Dublin vs National
-![Dublin vs National](dublin_vs_national.png)
-
-### County Prices
-![County Prices](county_prices.png)
-
 ## How to Run
 
 ```bash
